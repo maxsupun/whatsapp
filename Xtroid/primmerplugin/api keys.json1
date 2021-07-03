@@ -1,4 +1,4 @@
-from = Xtroid
+from = whatsapp
 got api key 
 const { create, Client } = require('@open-wa/wa-automate')
 const figlet = require('figlet')
